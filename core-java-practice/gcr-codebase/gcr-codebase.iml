@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/arrayq" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/control-flow" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/programming-elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
