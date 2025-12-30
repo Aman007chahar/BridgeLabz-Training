@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/programming-elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/built-in-functions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/class-object" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
