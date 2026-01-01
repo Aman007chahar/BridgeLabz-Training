@@ -1,4 +1,4 @@
-public class Circle {
+public class Circle1 {
     double radius;
 
     void calculate() {
@@ -10,7 +10,7 @@ public class Circle {
     }
 
     public static void main(String[] args) {
-        Circle c = new Circle();
+        Circle1 c = new Circle1();
         c.radius = 2.5;
 
         c.calculate();

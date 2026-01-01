@@ -1,4 +1,4 @@
-public class Book {
+public class Book1 {
 String title;
 String author;
 double price;
@@ -10,12 +10,12 @@ void display() {
 }
 
 public static void main(String[] args) {
-    Book b1 = new Book();
+    Book1 b1 = new Book1();
     b1.title = "2States";
     b1.author = "Chetan Bhagat";
     b1.price = 500.0;
 
-    Book b2 = new Book();
+    Book1 b2 = new Book1();
     b2.title = "Wings Of Fire";
     b2.author = "Abdul kalam.A.P.J";
     b2.price = 500.0;
