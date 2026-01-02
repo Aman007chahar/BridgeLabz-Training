@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/built-in-functions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/class-object" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/constructors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
