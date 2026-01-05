@@ -21,7 +21,7 @@ public class Vehicle {
     public void displayVehicle() {
         if (this instanceof Vehicle) {
             System.out.println("Owner Name: " + ownerName);
-            System.out.println("Vehicle Type: " + vehicleType);
+            System.out.println("Vehicle1 Type: " + vehicleType);
             System.out.println("Registration Number: " + registrationNumber);
             System.out.println("Registration Fee: $" + registrationFee);
         }

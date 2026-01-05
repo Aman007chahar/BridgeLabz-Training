@@ -12,7 +12,7 @@ public class Vehicle {
 
     void displayVehicleDetails() {
         System.out.println("Owner: " + ownerName);
-        System.out.println("Vehicle Type: " + vehicleType);
+        System.out.println("Vehicle1 Type: " + vehicleType);
         System.out.println("Registration Fee: " + registrationFee);
     }
 
